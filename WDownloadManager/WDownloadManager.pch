@@ -1,0 +1,19 @@
+//
+//  WDownloadManager.pch
+//  WDownloadManager
+//
+//  Created by 魏学涛 on 2017/4/27.
+//  Copyright © 2017年 魏学涛. All rights reserved.
+//
+
+#ifndef WDownloadManager_pch
+#define WDownloadManager_pch
+
+// Include any system framework and library headers here that should be included in all compilation units.
+// You will also need to set the Prefix Header build setting of one or more of your targets to reference this file.
+#import <UIKit/UIKit.h>
+#import <Foundation/Foundation.h>
+
+#import "WDownloadConfig.h"
+
+#endif /* WDownloadManager_pch */
